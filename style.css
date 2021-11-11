@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(212, 18, 18);
+}
+body {
+    background: linear-gradient(#ffffff, #000000) fixed;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+h1, h2, ul, p, li, ol {text-align: center;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
